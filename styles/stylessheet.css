@@ -1,6 +1,65 @@
 .homepage {
   background-color: lightblue;
 }
+.aboutme {
+  background-color: aqua;
+}
 h1 {
   background-color: orange;
+  text-align: center;
+  font-style: italic;
+}
+h2 {
+  background-color: orange;
+  text-align: center;
+  font-style: italic;
+}
+h3 {
+  background-color: orange;
+  text-align: center;
+  font-style: italic;
+}
+p {
+  text-align: center;
+  font-family: sans-serif;
+}
+ul {
+  list-style-type: none;
+  margin: 20px;
+  padding: 8px;
+}
+li {
+  float: left;
+}
+li a {
+  padding: 8px;
+}
+img {
+  border: solid 3px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+video {
+  border: solid 3px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#mission {
+  border: solid 3px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+footer {
+  border: solid 3px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  margin-top: 10px;
 }
